@@ -9,6 +9,7 @@ The repo is divided into various modules.
 **Table of Contents**
 - Data-Preprocessing
 - Regression
+- Classification
 - More to come...
 
 ### Data-Preprocessing
@@ -24,3 +25,10 @@ Regression is divided into following sections -
 - Support Vector Regression (SVR)
 - Decision Tree Regression
 - Random Forest Regression
+
+### Classification
+Classification is a process related to categorization, the process in which ideas and objects are recognized, differentiated and understood.
+
+Classification is divided into following sections -
+- Logistic Regression
+- More to come...
