@@ -2,7 +2,7 @@
 ### A basic introduction to Machine Learning.
 This GitHub repository contains codes and explanations of basic Machine Learning techniques.
 
-![Image for post](https://miro.medium.com/max/60/1*cG6U1qstYDijh9bPL42e-Q.jpeg?q=200)
+![Image for post](https://miro.medium.com/max/60/1*cG6U1qstYDijh9bPL42e-Q.jpeg?q=2)
 
 The repo is divided into various modules.
 
