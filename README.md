@@ -31,4 +31,5 @@ Classification is a process related to categorization, the process in which idea
 
 Classification is divided into following sections -
 - Logistic Regression
+- K-Nearest Neighbors (K-NN)
 - More to come...
