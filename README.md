@@ -35,4 +35,5 @@ Classification is divided into following sections -
 - Support Vector Machine (SVM)
 - Kernel SVM
 - Naive Bayes
+- Decision Tree Classification
 - More to come...
