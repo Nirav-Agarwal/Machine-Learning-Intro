@@ -34,4 +34,5 @@ Classification is divided into following sections -
 - K-Nearest Neighbors (K-NN)
 - Support Vector Machine (SVM)
 - Kernel SVM
+- Naive Bayes
 - More to come...
