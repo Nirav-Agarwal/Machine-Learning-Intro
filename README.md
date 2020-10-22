@@ -36,4 +36,5 @@ Classification is divided into following sections -
 - Kernel SVM
 - Naive Bayes
 - Decision Tree Classification
+- Random Forest Classification
 - More to come...
