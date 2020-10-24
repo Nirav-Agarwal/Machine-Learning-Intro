@@ -46,4 +46,43 @@ Classification is divided into following sections -
 - Hierarchical Clustering
 
 
-More to come...
+### Association Rule Learning
+Association rule learning is a rule-based machine learning method for discovering interesting relations between variables in large databases. 
+
+Association Rule Learning consists the following section -
+- Apriori
+
+### Natural Language Processing
+Natural language processing is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
+
+### Deep Learning
+Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
+
+Deep Learning is divided into following sections -
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+
+### Reinforcement Learning
+Reinforcement learning is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward.
+
+Reinforcement Learning is divided into following sections -
+- Thompson Sampling
+- Upper Confidence Bound (UCB)
+
+### Dimensionality Reduction
+Dimensionality reduction, or dimension reduction, is the transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data, ideally close to its intrinsic dimension.
+
+Dimensionality Reduction is divided into following sections -
+- Principal Component Analysis (PCA)
+- Linear Discriminant Analysis (LDA)
+- Kernel PCA
+
+### Model Selection
+Model selection is the process of choosing one among many candidate models for a predictive modeling problem.
+
+### XGBoost
+XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. 
+
+
+
+
